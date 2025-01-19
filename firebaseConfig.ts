@@ -5,13 +5,13 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAcczsMvhHQUQsCH6BhSTSRQHcAARilBb4",
-    authDomain: "taxonomy-creator.firebaseapp.com",
-    projectId: "taxonomy-creator",
-    storageBucket: "taxonomy-creator.firebasestorage.app",
-    messagingSenderId: "980632102895", // Replace with your actual Messaging Sender ID
-    appId: "1:980632102895:web:3bd7173e0d4e14137d381a",              // Replace with your actual App ID
-    measurementId: "G-7XXZD7BWN5" // Replace with your actual Measurement ID
+    apiKey: "AIzaSyBkIgxCZe8qzkWAr1ChV7PiPbeL_4pWQ14",
+    authDomain: "taxonomy-final.firebaseapp.com",
+    projectId: "taxonomy-final",
+    storageBucket: "taxonomy-final.firebasestorage.app",
+    messagingSenderId: "461658066003",
+    appId: "1:461658066003:web:d39c228c304517a30fcaa6",
+    measurementId: "G-F3QFQLH5H4"
 };
 
 const app = initializeApp(firebaseConfig);
